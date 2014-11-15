@@ -74,6 +74,6 @@ bitbucket.org.
 How to install
 ========
 
-First, you need to deploy db, and fill it with test data. For this purpose, you need run "createAndFillDB.py".
+First, you need to deploy db, and fill it with test data. For this purpose, you need to run "createAndFillDB.py".
 
 Now, your server is ready to start, run "runserver.py".
